@@ -1,4 +1,11 @@
 # Compiler Design Lab (21CS63) Programs
+This repository contains a collection of LEX and YACC programs for the Compiler Design Lab course (21CS63). The programs include lexical analysis tasks like counting words, lines, and identifiers, and syntax analysis tasks such as validating expressions, recognizing control structures, and generating intermediate and assembly code. Each program comes with detailed compilation and execution steps to help you get started.
+
+Contents:
+- LEX programs for lexical analysis.
+- YACC programs for syntax analysis.
+- Compilation instructions for both LEX and YACC programs.
+#### Feel free to explore and contribute!
 
 ## List of Programs
 
