@@ -26,10 +26,11 @@ Contents:
 
 ## Compilation Steps
 
+#### Prerequisites
+1. Ensure that `#include "lex.yy.c"` is added to your YACC program, and `#include "y.tab.h"` is added to your LEX program.
+2. Ensure that `%option noyywrap` is added to all LEX programs.
+
 ### For YACC Programs
-
-0. Ensure that `#include "lex.yy.c"` is added to your YACC program, and `#include "y.tab.h"` is added to your LEX program. Then follow the steps below:
-
 1. Compile the YACC program:
    ```bash
    $ yacc <filename>.y -d
@@ -51,9 +52,6 @@ Contents:
    ```
 
 ### For LEX Programs
-
-0. Ensure that `%option noyywrap` is added to all LEX programs.
-
 1. Compile the LEX program:
    ```bash
    $ lex <filename>.l
