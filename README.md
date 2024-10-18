@@ -11,18 +11,18 @@ Contents:
 
 | No. | Program Description                                                                                                  | Link                |
 | --- | -------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| 1   | Write a LEX program to count the number of words, lines, characters, and whitespaces in a given paragraph.           | [Link](placeholder) |
-|     | Write a YACC program to recognize strings of the form a<sup>n</sup>b<sup>n+m</sup>c<sup>m</sup>, where n, m ≥ 0.     | [Link](placeholder) |
-| 2   | Write a LEX program to count the number of positive & negative integers and fractions.                               | [Link](placeholder) |
-|     | Write a YACC program to validate and evaluate a simple expression involving the operators `+`, `-`, `*`, and `/`.    | [Link](placeholder) |
-| 3   | Write a LEX program to count comment lines in a C program, eliminate them, and copy the rest into a new file.        | [Link](placeholder) |
-|     | Write a YACC program to recognize a nested `FOR` loop (minimum 3 levels) in the C language.                          | [Link](placeholder) |
-| 4   | Write a LEX program to recognize and count the number of identifiers, operators, and keywords in an input file.      | [Link](placeholder) |
-|     | Write a YACC program to recognize nested `IF` statements in C and display the number of levels of nesting.           | [Link](placeholder) |
-| 5   | Write a YACC program to recognize declaration statements in C and display the number of variables declared.          | [Link](placeholder) |
-| 6   | Write a YACC program that reads C statements from an input file and converts them into quadruple three-address code. | [Link](placeholder) |
-| 7   | Write a YACC program to identify function definitions in the C language.                                             | [Link](placeholder) |
-| 8   | Write a YACC program to generate assembly code for a valid arithmetic expression.                                    | [Link](placeholder) |
+| 1   | Write a LEX program to count the number of words, lines, characters, and whitespaces in a given paragraph.           | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program1/a) |
+|     | Write a YACC program to recognize strings of the form a<sup>n</sup>b<sup>n+m</sup>c<sup>m</sup>, where n, m ≥ 0.     | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program1/b) |
+| 2   | Write a LEX program to count the number of positive & negative integers and fractions.                               | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program2/a) |
+|     | Write a YACC program to validate and evaluate a simple expression involving the operators `+`, `-`, `*`, and `/`.    | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program2/b) |
+| 3   | Write a LEX program to count comment lines in a C program, eliminate them, and copy the rest into a new file.        | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program3/a) |
+|     | Write a YACC program to recognize a nested `FOR` loop (minimum 3 levels) in the C language.                          | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program3/b) |
+| 4   | Write a LEX program to recognize and count the number of identifiers, operators, and keywords in an input file.      | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program4/a) |
+|     | Write a YACC program to recognize nested `IF` statements in C and display the number of levels of nesting.           | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program4/b) |
+| 5   | Write a YACC program to recognize declaration statements in C and display the number of variables declared.          | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program5) |
+| 6   | Write a YACC program that reads C statements from an input file and converts them into quadruple three-address code. | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program6) |
+| 7   | Write a YACC program to identify function definitions in the C language.                                             | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program7) |
+| 8   | Write a YACC program to generate assembly code for a valid arithmetic expression.                                    | [Link](https://github.com/gauravhegade/RVCE-CSE-6th-Semester-CDLab-Programs/tree/main/Program8) |
 
 ## Compilation Steps
 
